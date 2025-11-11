@@ -1,6 +1,6 @@
 <h1 align="center">Fakhrul Hakimy</h1>
 <p align="center">
-  Full-Stack Enthusiast · Python Developer · Cloud & DevOps Learner
+  Full-Stack Enthusiast  · Cloud & DevOps Learner
 </p>
 
 ---
@@ -13,21 +13,21 @@ I’m a developer focused on building practical, scalable, and clean application
 
 ### 🧠 Skills & Interests
 
-- 📱 **Cross-Platform Development**: Flutter  
-- 🔙 **Backend Development**: FastAPI, RESTful APIs  
-- 🐍 **Python Frameworks**: Flet, Kivy  
-- ☁️ **Cloud & DevOps** *(In Progress)*:
-  - Google Cloud Platform – DevOps Track  
-  - AWS Certified Cloud Practitioner  
+- ⚛️ Frontend Development: React (Component-based UI, Hooks, State Management)
+- 🔙 Backend Development: ASP.NET Web API, FastAPI, RESTful API design
+- 📱 Cross-Platform Development: Flutter (On Hold)
+- ☁️ Cloud & DevOps (In Progress):
+    - Google Cloud Platform – DevOps Track
+    - AWS Certified Cloud Practitioner
 
 ---
 
 ### 🚀 Currently Learning
 
-- 📱 **Flutter** – UI building, state management, and best practices  
-- ☕ **Java** – backend foundations & concurrency  
-- 🐍 **Python** – async programming, CLI tools, and clean architecture  
-- ⚙️ **DevOps** – CI/CD, infrastructure-as-code, cloud fundamentals
+- ☕ Java – backend foundations & concurrency
+- ⚛️ React – reusable components, hooks, routing, and API integration
+- 🧩 ASP.NET Web API – controllers, models, DTOs, and RESTful architecture
+- ⚙️ DevOps – CI/CD, Infrastructure as Code, and Cloud deployment fundamentals
 
 ---
 
