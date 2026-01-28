@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Fakhrul Hakimy 👋</h1>
 <p align="center">
-  <b>Backend Software Engineer</b><br>
-  .NET Specialist | Cloud & DevOps Learner
+  <b>Student</b><br>
+  .NET and Cloud & DevOps Learner
 </p>
 
 <p align="center">
