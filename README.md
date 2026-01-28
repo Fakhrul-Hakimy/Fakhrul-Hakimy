@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Fakhrul Hakimy 👋</h1>
 <p align="center">
-  <b>Software Engineer (Backend Focus)</b><br>
-  .NET Developer | Cloud Enthusiast
+  <b>Backend Software Engineer</b><br>
+  .NET Specialist | Cloud & DevOps Learner
 </p>
 
 <p align="center">
@@ -17,33 +17,57 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a result-oriented Information Technology graduate (CGPA 3.93) with a strong focus on Software Engineering and Web Programming[cite: 4]. [cite_start]Currently, I am an **Intern Software Engineer at Neptrix Sdn Bhd**, specializing in the full-cycle development of **Manufacturing Execution Systems (MES)**[cite: 5].
+I am a result-oriented Information Technology graduate with a strong passion for **Backend Engineering** and **System Architecture**. My primary focus is building robust, high-availability software using the **.NET ecosystem** and **SQL**.
 
-[cite_start]My core expertise lies in developing robust backend logic, optimizing database performance, and ensuring high-availability for mission-critical factory operations[cite: 6, 49]. [cite_start]I combine my programming skills with a background in network infrastructure (SKM Level 3) to build secure and scalable solutions[cite: 7, 25].
+I am a logical programmer currently transitioning into Cloud Computing, mastering **AWS** to build high-performance, scalable infrastructure. I advocate for Clean Architecture and secure coding practices, leveraging my background in network infrastructure (SKM Level 3).
 
 ---
 
-### 🛠 Tech Stack & Tools
 
+### 🚀 Tech Stack & Learning Focus
+
+#### **Core Stack (Proficient)**
 | Domain | Technologies |
 | :--- | :--- |
-| **Backend Development** | [cite_start]**.NET (C#)**, **ASP.NET Core / Web API**, PHP, Java, Python [cite: 6, 19] |
-| **Databases** | [cite_start]**MSSQL**, **MySQL**, SQL [cite: 6, 21] |
-| **Frontend** | [cite_start]React, JavaScript, HTML/CSS [cite: 19] |
-| **Cloud & DevOps** | [cite_start]AWS (Certified Cloud Practitioner - In Progress), Cloud Hosting, Azure Pipeline, Linux [cite: 23, 27, 29] |
-| **Infrastructure** | [cite_start]Office Network Management, Computer Network Set-Up (SKM Level 3) [cite: 25, 42] |
+| **Backend** | **.NET (C#)**, **ASP.NET Core**, **Web API**, PHP, Python |
+| **Database** | **MSSQL**, **MySQL**, PostgreSQL |
+| **Frontend** | React, JavaScript, HTML/CSS |
+| **Tools** | Visual Studio, Git (GitHub/Bitbucket) |
+
+#### **🌱 Currently Learning & Exploring**
+I am actively expanding my skill set in the following areas:
+
+* ☁️ **Cloud Computing:** Mastering **AWS** (Preparing for *AWS Certified Cloud Practitioner*) to bridge the gap between development and operations.
+* 🏗️ **Advanced Architecture:** Implementing **Clean Architecture** patterns in .NET to separate concerns and improve testability.
+* 🔄 **DevOps:** Learning **CI/CD pipelines** (Azure Pipelines) and containerization to automate deployment workflows.
+* 📡 **Real-time Communication:** Exploring **SignalR** for building real-time web functionality.
 
 ---
 
+### 📂 Key Projects
+
+**Full-Stack Web Developer (Freelance)** | *Shumieza Beauty & Spa*
+* **Overview:** Designed and deployed a comprehensive business platform with a custom booking engine.
+* **Tech Stack:** PHP, MySQL, JavaScript.
+* **Key Features:**
+    * **Logic:** Programmed real-time shop status logic (Open/Closed) based on server time.
+    * **Geo-Location:** Integrated APIs to calculate distance for customers.
+    * **Management:** Built a dynamic gallery and services module for easy content updates.
+
+**Secure Private Cloud Storage System** | *Linux-Based Final Year Project*
+* **Overview:** Built a secure document storage platform on a Linux server using Cloudflare Zero Trust.
+* **Security:** Implemented Role-Based Access Control (RBAC), 2FA, and WARP VPN for restricted access.
+* **Infrastructure:** Configured automated activity logging and encrypted file handling.
+
+---
 
 ### 🏆 Certifications
 
-* [cite_start]**Google Cybersecurity Certificate** (Google, 2025-2026) [cite: 30]
-    * [cite_start]*Modules:* Connect and Protect: Networks and Network Security [cite: 32][cite_start], Foundations of Cybersecurity [cite: 36][cite_start], Play It Safe: Manage Security Risks[cite: 39].
-* [cite_start]**Malaysian Skills Certificate (SKM) Level 3:** Computer Network Systems (2021)[cite: 42, 43].
+* **Google Cybersecurity Certificate** (2025-2026)
+    * *Focus:* Network Security, Risk Management, Python for Security.
+* **Malaysian Skills Certificate (SKM) Level 3:** Computer Network Systems.
 
 ---
-
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
